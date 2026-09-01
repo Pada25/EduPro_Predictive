@@ -77,6 +77,7 @@ The Streamlit application contains the following sections:
 ## Live Prediction
 
 The dashboard allows users to enter course and instructor information and generate predicted enrollment and revenue values using the trained machine learning models.
+https://sonal-edupropredictive.streamlit.app/
 
 ## Project Structure
 
