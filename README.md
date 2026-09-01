@@ -26,7 +26,7 @@ An interactive Streamlit dashboard was developed to combine historical analysis,
 
 The final dataset contains 720 records and 27 attributes, representing 60 courses observed over 12 months.
 
-The dataset includes information related to:
+The dataset includes information related to: 
 
 - Course category
 - Course type
@@ -71,7 +71,7 @@ The Streamlit application contains the following sections:
 - Revenue Forecast
 - Live ML Prediction
 - Model Performance
-- Feature Analysis
+- Feature Importance
 - Recommendations
 
 ## Live Prediction
